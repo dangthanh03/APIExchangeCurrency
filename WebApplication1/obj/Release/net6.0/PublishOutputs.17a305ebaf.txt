@@ -1,0 +1,11 @@
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MVC\BTVN\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

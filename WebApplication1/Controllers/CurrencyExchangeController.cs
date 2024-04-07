@@ -32,5 +32,18 @@ namespace WebApplication1.Controllers
             // Trả về kết quả
             return Ok(new { originalAmount = amount, exchangedAmount = exchangedAmount });
         }
+        [HttpGet("currencyPairs")]
+        public async Task<IActionResult> GetCurrencyPairs()
+        {
+            try
+            {
+                List<string> currencyPairs = await _exchangeService.GetCurrencyPairs();
+                return Ok(currencyPairs);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Đã xảy ra lỗi khi lấy danh sách currencyPair: " + ex.Message);
+            }
+        }
     }
 }
